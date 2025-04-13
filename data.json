@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Solo Leveling",
+    "genre": "Action, Fantasy",
+    "description": "Follow the weakest hunter who rises to power after a mysterious event.",
+    "image": "images/solo_leveling.jpg"
+  },
+  {
+    "title": "Tower of God",
+    "genre": "Adventure, Fantasy",
+    "description": "A boy enters a mysterious tower in search of his friend, facing deadly challenges.",
+    "image": "images/tower_of_god.jpg"
+  },
+  {
+    "title": "Hardcore Leveling Warrior",
+    "genre": "Action, Fantasy",
+    "description": "A top-ranked warrior faces tough challenges in a world where skills determine power.",
+    "image": "images/hardcore_leveling_warrior.jpg"
+  },
+  {
+    "title": "Noblesse",
+    "genre": "Action, Fantasy",
+    "description": "A powerful noble awakens in modern society and battles enemies to protect humanity.",
+    "image": "images/noblesse.jpg"
+  },
+  {
+    "title": "The God of High School",
+    "genre": "Action, Martial Arts",
+    "description": "Teen fighters compete in a martial arts tournament with world-changing stakes.",
+    "image": "images/the_god_of_high_school.jpg"
+  },
+  {
+    "title": "Second Life Ranker",
+    "genre": "Action, Fantasy",
+    "description": "A man embarks on a journey to avenge his brother’s death by climbing a mysterious tower.",
+    "image": "images/second_life_ranker.jpg"
+  },
+  {
+    "title": "Eleceed",
+    "genre": "Action, Fantasy",
+    "description": "A boy with lightning-fast reflexes teams up with a powerful cat to save the world.",
+    "image": "images/eleceed.jpg"
+  },
+  {
+    "title": "The Advanced Player of the Tutorial Tower",
+    "genre": "Action, Fantasy",
+    "description": "After being trapped in a tower for years, a player escapes with overwhelming power.",
+    "image": "images/the_advanced_player_of_the_tutorial_tower.jpg"
+  },
+  {
+    "title": "Leveling Up With The Gods",
+    "genre": "Action, Fantasy",
+    "description": "An underdog rises to the top by leveling up in a world ruled by gods.",
+    "image": "images/leveling_up_with_the_gods.jpg"
+  },
+  {
+    "title": "Villain to Kill",
+    "genre": "Action, Fantasy",
+    "description": "A powerful hero becomes a villain, leading to a struggle between justice and revenge.",
+    "image": "images/villain_to_kill.jpg"
+  }
+]
